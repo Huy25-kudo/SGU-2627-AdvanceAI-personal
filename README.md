@@ -36,8 +36,7 @@ Mỗi tuần học sẽ có một thư mục riêng chứa bài tập tương �
 ├── 📁 tuan1/          → Tuần 1 – Bài thảo luận (Discussion)
 ├── 📁 tuan 3/         → Tuần 3 – Bài tập AI Search (Ex01a, Ex01b)
 ├── 📁 tuan4/          → Tuần 4 – Bài tập CSP Game (Ex02)
-├── 📁 tuan5/          → Tuần 5 – Bài tập CSP Game (bù)
-├── 📁 tuan6/          → Tuần 6 – Bài tập AI Game (Ex03)
+├── 📁 tuan5/          → Tuần 6 – Bài tập AI Game (Ex03)
 └── 📄 README.md
 ```
 
@@ -51,8 +50,7 @@ Mỗi tuần học sẽ có một thư mục riêng chứa bài tập tương �
 | 3 | Exercise 01a | `ex01a_AISearch_ToGiaHuy_3123410131.pdf` | AI Search |
 | 3 | Exercise 01b | `ex01b_AISearch_ToGiaHuy_3123410131.pdf` | AI Search |
 | 4 | Exercise 02 | `ex02_CSPGame_ToGiaHuy_3123410131.pdf` | CSP Game |
-| 5 | Exercise 02 *(bù)* | `ex02_CSPGame_ToGiaHuy_3123410131 (1).pdf` | CSP Game |
-| 6 | Exercise 03 | `ex03_AIGame_ToGiaHuy_3123410131.pdf` | AI Game |
+| 5 | Exercise 03 | `ex03_AIGame_ToGiaHuy_3123410131.pdf` | AI Game |
 
 ---
 
@@ -67,10 +65,7 @@ Mỗi tuần học sẽ có một thư mục riêng chứa bài tập tương �
 ### 📌 Tuần 4 – CSP Game (Ex02)
 > **Chủ đề:** Bài toán thỏa mãn ràng buộc (Constraint Satisfaction Problem) ứng dụng vào trò chơi.
 
-### 📌 Tuần 5 – CSP Game (Ex02 – Bài bù)
-> **Chủ đề:** Bài tập bổ sung cho CSP Game của tuần 4.
-
-### 📌 Tuần 6 – AI Game (Ex03)
+### 📌 Tuần 5 – AI Game (Ex03)
 > **Chủ đề:** Ứng dụng Trí Tuệ Nhân Tạo vào trò chơi – Minimax, Alpha-Beta Pruning.
 
 ---
