@@ -36,7 +36,8 @@ Mỗi tuần học sẽ có một thư mục riêng chứa bài tập tương �
 ├── 📁 tuan1/          → Tuần 1 – Bài thảo luận (Discussion)
 ├── 📁 tuan 3/         → Tuần 3 – Bài tập AI Search (Ex01a, Ex01b)
 ├── 📁 tuan4/          → Tuần 4 – Bài tập CSP Game (Ex02)
-├── 📁 tuan5/          → Tuần 6 – Bài tập AI Game (Ex03)
+├── 📁 tuan5/          → Tuần 5 – Bài tập AI Game (Ex03)
+├── 📁 tuan7/          → Tuần 7 – Bieu dien tri thuc va suy luan (BT4)
 └── 📄 README.md
 ```
 
@@ -67,6 +68,8 @@ Mỗi tuần học sẽ có một thư mục riêng chứa bài tập tương �
 
 ### 📌 Tuần 5 – AI Game (Ex03)
 > **Chủ đề:** Ứng dụng Trí Tuệ Nhân Tạo vào trò chơi – Minimax, Alpha-Beta Pruning.
+### 📌 Tuần 7 – Bieu dien tri thuc va suy luan (BT4)
+> **Chủ đề:** BÀI TẬP TÍNH TOÁN BIỂU DIỄN TRI THỨC VÀ SUY LUẬN.
 
 ---
 
