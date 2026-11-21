@@ -33,11 +33,14 @@ Mỗi tuần học sẽ có một thư mục riêng chứa bài tập tương �
 ```
 📁 SGU-2627-AdvanceAI-personal/
 │
-├── 📁 tuan1/          → Tuần 1 – Bài thảo luận (Discussion)
-├── 📁 tuan 3/         → Tuần 3 – Bài tập AI Search (Ex01a, Ex01b)
-├── 📁 tuan4/          → Tuần 4 – Bài tập CSP Game (Ex02)
-├── 📁 tuan5/          → Tuần 5 – Bài tập AI Game (Ex03)
-├── 📁 tuan7/          → Tuần 7 – Bieu dien tri thuc va suy luan (BT4)
+├── 📁 tuan1/          → Tuần 1  – Bài thảo luận (Discussion)
+├── 📁 tuan 3/         → Tuần 3  – Bài tập AI Search (Ex01a, Ex01b)
+├── 📁 tuan4/          → Tuần 4  – Bài tập CSP Game (Ex02)
+├── 📁 tuan5/          → Tuần 5  – Bài tập AI Game (Ex03)
+├── 📁 tuan7/          → Tuần 7  – Biểu diễn tri thức và suy luận (BT04)
+├── 📁 tuan8/          → Tuần 8  – Lập kế hoạch – Planning (BT05)
+├── 📁 tuan9/          → Tuần 9  – Mạng Bayes – Bayes (BT06)
+├── 📁 tuan10/         → Tuần 10 – Học máy – Machine Learning (BT07)
 └── 📄 README.md
 ```
 
@@ -52,6 +55,10 @@ Mỗi tuần học sẽ có một thư mục riêng chứa bài tập tương �
 | 3 | Exercise 01b | `ex01b_AISearch_ToGiaHuy_3123410131.pdf` | AI Search |
 | 4 | Exercise 02 | `ex02_CSPGame_ToGiaHuy_3123410131.pdf` | CSP Game |
 | 5 | Exercise 03 | `ex03_AIGame_ToGiaHuy_3123410131.pdf` | AI Game |
+| 7 | Bài tập 04 | `BT04_KnowledgeReasoning_TôGiaHuy_3123410131.pdf` | Knowledge & Reasoning |
+| 8 | Bài tập 05 | `BT05_Planning_TôGiaHuy_3123410131 (1).pdf` | Planning |
+| 9 | Bài tập 06 | `BT06_Bayes_ToGiaHuy_3123410131 (1).pdf` | Bayes |
+| 10 | Bài tập 07 | `BT07_ML_ToGiaHuy_3123410131.pdf` | Machine Learning |
 
 ---
 
@@ -68,8 +75,18 @@ Mỗi tuần học sẽ có một thư mục riêng chứa bài tập tương �
 
 ### 📌 Tuần 5 – AI Game (Ex03)
 > **Chủ đề:** Ứng dụng Trí Tuệ Nhân Tạo vào trò chơi – Minimax, Alpha-Beta Pruning.
-### 📌 Tuần 7 – Bieu dien tri thuc va suy luan (BT4)
-> **Chủ đề:** BÀI TẬP TÍNH TOÁN BIỂU DIỄN TRI THỨC VÀ SUY LUẬN.
+
+### 📌 Tuần 7 – Biểu diễn tri thức và suy luận (BT04)
+> **Chủ đề:** Bài tập tính toán biểu diễn tri thức và suy luận (Knowledge Representation & Reasoning).
+
+### 📌 Tuần 8 – Planning (BT05)
+> **Chủ đề:** Lập kế hoạch trong AI (Automated Planning) – biểu diễn trạng thái, hành động và tìm chuỗi hành động đạt mục tiêu.
+
+### 📌 Tuần 9 – Bayes (BT06)
+> **Chủ đề:** Suy luận xác suất – Định lý Bayes và Mạng Bayes (Bayesian Network).
+
+### 📌 Tuần 10 – Machine Learning (BT07)
+> **Chủ đề:** Học máy (Machine Learning) – các phương pháp học từ dữ liệu.
 
 ---
 
